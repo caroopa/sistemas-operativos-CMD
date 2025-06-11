@@ -1,12 +1,12 @@
 # Introducción a comandos de CMD
 
-Poner "CMD" en el buscador de Windows y abrirlo. 
-Ejecutar los siguientes comandos (se puede copiar y pegar con `Ctrl + C` y `Ctrl + V`).
-Para cada uno, describir lo que sucede o el resultado que les devuelve.
+Poner "CMD" en el buscador de Windows y abrirlo.  
+Ejecutar los siguientes comandos (se puede copiar y pegar con `Ctrl + C` y `Ctrl + V`).  
+Para cada uno, describir lo que sucede o el resultado que les devuelve.  
 
-Dentro de este Drive, crear un documento dentro de su curso correspondiente y escribir sus respuestas:
-https://drive.google.com/drive/folders/1QTvgGz76OgoNEJOAWywEUe_F7AlZ7yaJ?usp=sharing
-Nombrarlo con su nombre y apellido (o nombre de grupo).
+Dentro de este Drive, crear un documento dentro de su curso correspondiente y escribir sus respuestas:  
+https://drive.google.com/drive/folders/1QTvgGz76OgoNEJOAWywEUe_F7AlZ7yaJ?usp=sharing  
+Nombrarlo con su nombre y apellido (o nombre de grupo).  
 
 ## 🧠 Información general del sistema
 
