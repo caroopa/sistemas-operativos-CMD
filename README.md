@@ -16,7 +16,7 @@ Nombrarlo con su nombre y apellido (o nombre de grupo).
 `wmic os get caption`  
 `wmic cpu get name`  
 `wmic logicaldisk get name,size,freespace`  
-`hel`  
+`help`  
 `tree` (OJO, con este van a necesitar Ctrl + C para cancelar la escritura porque es mucho)  
 `date /t`  
 `time /t`  
