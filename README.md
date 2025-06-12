@@ -8,7 +8,9 @@ Para cada uno, describir lo que sucede o el resultado que les devuelve.
 
 Dentro de este Drive, crear un documento dentro de su curso correspondiente y escribir sus respuestas:  
 https://drive.google.com/drive/folders/1QTvgGz76OgoNEJOAWywEUe_F7AlZ7yaJ?usp=sharing  
-Nombrarlo con su nombre y apellido (o nombre de grupo). 
+Nombrarlo con su nombre y apellido (o nombre de grupo).
+
+*Para más nota 👀:* investigar y explicar con sus palabras qué hace cada comando.
 
 ## 🧠 Información general del sistema
 
