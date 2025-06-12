@@ -10,7 +10,7 @@ Dentro de este Drive, crear un documento dentro de su curso correspondiente y es
 https://drive.google.com/drive/folders/1QTvgGz76OgoNEJOAWywEUe_F7AlZ7yaJ?usp=sharing  
 Nombrarlo con su nombre y apellido (o nombre de grupo).
 
-*Para más nota 👀:* 
+**Puntos extra 👀:**
 - Investigar y explicar con sus palabras qué hace cada comando.
 - Buscar qué otros comandos existen para ver el hardware de la computadora o información del sistema operativo. 
 
